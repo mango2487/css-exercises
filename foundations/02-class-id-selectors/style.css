@@ -1,0 +1,20 @@
+.odd, .oddB{
+    background-color: palevioletred;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif'
+}
+
+#B2{
+    color: blue;
+    font-size: 36px;
+}
+
+.oddB{
+    font-size:24px;
+
+}
+
+#G4 {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
